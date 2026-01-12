@@ -1,7 +1,7 @@
 # The Unsolved Case
 
 ## The Discovery
-Late one night, something unusual was found in a place everyone thought they knew well.
+Late one stormy night, something unusual was found in the old Bakers house. It was a dark place, abandoned for years. 
 
 ## The Witnesses
 Several people noticed strange events, but none reported them immediately.
