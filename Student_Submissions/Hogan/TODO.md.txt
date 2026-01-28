@@ -1,0 +1,18 @@
+2/26/2026
+
+Goals for this week:
+
+-[ ] Collect historical NHL player performance data
+
+- [ ] Import and clean salary and slate data
+
+- [ ] Merge datasets into a single modeling table
+
+Last Week's Goals:
+
+- [x] Finalize project scope and assumptions
+
+- [x] Identify data sources (stats + salaries)
+
+- [x] Set up project repository and file structure
+
