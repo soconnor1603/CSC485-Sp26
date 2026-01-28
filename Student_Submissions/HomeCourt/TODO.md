@@ -1,3 +1,4 @@
+OVERALL TODO
 1. Gather Data [ ] 
 3. Import Data [ ]
    - NBA games data
@@ -33,3 +34,11 @@
     - Connect findings back to research questions
 16. Finalize Deliverables [ ]
     - Tables, figures, written conclusion
+
+
+FRIDAY 
+- work on games.csv file
+-    redirect the winner to a team name instead of an ID
+-    get rid of all ID numbers
+-    get rid of game type column and clean the columns
+-    rename columns to match the stadiums file
