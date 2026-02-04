@@ -4,10 +4,10 @@ OVERALL TODO
    - NBA games data
    - Box scores
    Stadium locations
-5. Clean/Filter Data [ ]
+5. Clean/Filter Data [X]
    - keep only NBA games
    - remove preseason, duplicates, and missing outcomes
-7. Standardize all variables [ ]
+7. Standardize all variables [X]
 8. Merge Datasets [ ]
    - merge games plus attendance by gameID/date
    - merge stadium locations by home/away team
@@ -34,6 +34,7 @@ OVERALL TODO
     - Connect findings back to research questions
 16. Finalize Deliverables [ ]
     - Tables, figures, written conclusion
+    - Delete gameID and league columns when we are completely done coding
 
 
 FRIDAY 
