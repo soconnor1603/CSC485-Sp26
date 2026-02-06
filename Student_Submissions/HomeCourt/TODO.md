@@ -51,8 +51,15 @@ NEXT WEEK (2/2)
      - flag back to back games [X]
      - calculate distance traveled [X]
      - take into account time zones [X]
-     - prior win/loss streak
-     - attendance brackets
+     - attendance brackets...?
      - clearer column showing if home team won or not (0/1 maybe) [X]
-- can we break up the data by season so it's not so long
+- can we break up the data by season so it's not so long....?
 - fix LA Clippers and Lakers [X]
+
+NEXT WEEK (2/9)
+- calculate home win rates listed above (by factor: overall, attendance, distance, time zone, back to back games)
+- run statistical tests
+-    log reg?
+-    random tree forest?
+- find what are statistically significant factors
+- visuals? 
