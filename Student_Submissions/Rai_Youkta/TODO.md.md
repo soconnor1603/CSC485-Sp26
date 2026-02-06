@@ -34,10 +34,26 @@ Scrapp any suggestion that the professor had and hopefully complete my dataset.
 
 1/26/2026
 
-- [] Scrap the SMOGON stats website to add abilities usage of Pokemons 
-- [] Think of some approaches to the Project
-	- [] Make bar graphes
+- [Check] Scrap the SMOGON stats website to add abilities usage of Pokemons 
+- [Check] Think of some approaches to the Project
+	- [] Make many bar graphes
+- [Check] Sleep
+- [Check] Plan classes for next week
+
+I was able to convert he JSON files into dataframes in R making them more easy to use for future graphs and analysis. 
+I plan to make graphs and find results that show difference between lower elo vs higher elo. I plan to compare their respected
+types, usage, and prefered teammates. I plan also to incorporat abilities and moves that the pokemom uses, but I currently
+have no idea of to approach in using them.
+
+--- --- --- -------------------------------------------
+
+2/1/2026
+
+- [] Make Bar graphs 
+- [] Make a Cord graph
+	- [Create a Cord Graph for Pokemon's teammates]
+- [] Think of questions that I want to answer in this research
+	-[] Found answers 
 - [] Sleep
 - [] Plan classes for next week
-
 
