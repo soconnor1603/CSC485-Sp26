@@ -11,7 +11,7 @@ OVERALL TODO
 8. Merge Datasets [X]
    - merge games plus attendance by gameID/date
    - merge stadium locations by home/away team
-9. Create key variables [ ]
+9. Create key variables [X]
    - ex. attendance, travel distance, back to back, rest days, season and date indicators, time zone
 10. Exploratory Data Analysis [ ]
    - Home Win rate overall
@@ -49,8 +49,8 @@ NEXT WEEK (2/2)
 - combine stadiums and games data sets into 1 big data set [X]
 - add columns
      - flag back to back games [X]
-     - calculate distance traveled 
-     - take into account time zones
+     - calculate distance traveled [X]
+     - take into account time zones [X]
      - prior win/loss streak
      - attendance brackets
      - clearer column showing if home team won or not (0/1 maybe) [X]
