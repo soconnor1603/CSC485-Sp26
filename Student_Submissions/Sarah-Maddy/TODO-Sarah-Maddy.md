@@ -19,8 +19,42 @@ Progress for this week:
 
 Goals for this week:
 
-- [ ] Continue to clean the data and check the accuracy of the information
+- [x] Continue to clean the data and check the accuracy of the information
 - [ ] While we were cleaning some of the datasets we realized that some say Tom Brady's first name is "Tom" and others say "Thomas" so this disorganization will make it more challenging to perform analyses. We want to standardize the data by doing such things as assigning one id number to each player that is the same throughout each dataset 
-- [ ] Our data is mostly from 1999-2023 so perhaps we shrink our datasets by specifying what year range is exactly what we want 
+- [x] Our data is mostly from 1999-2023 so perhaps we shrink our datasets by specifying what year range is exactly what we want 
 - [ ] Once the data is clean, save the datasets in the file that we created
-- [ ] If time permits, start playing around with visualizations (preferably through PowerBI and Tableau)
+- [x] If time permits, start playing around with visualizations (preferably through PowerBI and Tableau)
+
+Progress for this week:
+
+- We continued to clean the data and check the accuracy of the information. This is taking longer than expected, so we are still working on this.
+- We began to standardize the data sets so there are common ids throughout each that can be used to compare.
+- We started to narrow down the data sets by specifying what year range we want to work with. We decided to work with 2001 - 2023 because this is the timeframe that Tom Brady was a starting quarterback in the NFL
+- We started a variable list holding descriptions of exploratory variable within our data sets for analysis.
+- We created a Power BI dashboard to begin testing out visualizations. We uploaded our first clean data set into the dashboard.
+- We began a quarterback specific data sets to combine data
+
+2/8/2026
+
+Goals for this week:
+
+- [x] Continue to clean the data and check the accuracy of the information
+- [ ] Continue standardizing the data by doing things such as assigning one id number to each player that is the same throughout each dataset
+- [x] Continue uploading the cleaned datasets into the Power BI Dashboard as they are complete
+- [ ] Consider creating a master data set that merges all the data into one excel sheet
+- [x] Continue working on the quarterback specific data set to combine the data
+
+Progress for this week:  
+
+- We were able to merge datasets in meaningful ways and started to develop ideas for how we are going to analyze them all together (e.g., doing a regression analysis on weather to see how it impacts player performance) 
+- Example of our process of assessing models: when analyzing the weather, found that temperature is a bad predictor of the total score for each game, meaning that the temperature has no impact on how high or low scoring a game will be (p-value = 0.7861) so it does not hinder player performance significantly 
+- Worked with PowerBI to visualize the data, which revealed some additional issues in the datasets such as missing values and column headers in R being the first rows of the excel sheets, so we fixed those errors when necessary 
+
+2/15/2026
+
+Goals for this week:
+
+- [ ] Continue working on regression analysis, preferably through R Studio 
+- [ ] Analyze the summary of each model developed and check for association and correlation between variables (r^2 and r), statistical significance (p-values), etc. 
+- [ ] Plot regression models and store the visuals in some manner (make a big pdf, slideshow?)
+- [ ] Start working on practically interpreting values for a report 
