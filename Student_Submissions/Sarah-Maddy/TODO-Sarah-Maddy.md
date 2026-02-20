@@ -70,6 +70,8 @@ Progress for this week:
 
 2/20/2026
 
+Goals for this week:
+
 - [ ] Start to wrap up any final regression models we want to explore 
 - [ ] Practically interpret summary outputs for our report 
 - [ ] Create presentation and decide what information we want to highlight to share to the class
