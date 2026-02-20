@@ -54,7 +54,24 @@ Progress for this week:
 
 Goals for this week:
 
-- [ ] Continue working on regression analysis, preferably through R Studio 
-- [ ] Analyze the summary of each model developed and check for association and correlation between variables (r^2 and r), statistical significance (p-values), etc. 
-- [ ] Plot regression models and store the visuals in some manner (make a big pdf, slideshow?)
+- [x] Continue working on regression analysis, preferably through R Studio 
+- [x] Analyze the summary of each model developed and check for association and correlation between variables (r^2 and r), statistical significance (p-values), etc. 
+- [x] Plot regression models and store the visuals in some manner (make a big pdf, slideshow?)
 - [ ] Start working on practically interpreting values for a report 
+
+Progress for this week: 
+
+- We worked on running regression models specifically for environmental conditions influencing such things as how high scoring games are and passing yards
+- Had to modify some of the data like creating columns of averages and grouping by such things as teams, players, etc. which yielded more statistically significant results when we analyzed the summaries 
+- We created graphics to help visualize this data in R such as simple scatter plots, line plots, and correlation matrices 
+- We created more sub datasets holding EPA information
+- We found the 5 quarterbacks with the highest average career EPA
+- We started creating line plots and scatter plots to visualize this information 
+
+2/20/2026
+
+- [ ] Start to wrap up any final regression models we want to explore 
+- [ ] Practically interpret summary outputs for our report 
+- [ ] Create presentation and decide what information we want to highlight to share to the class
+- [ ] Continue creating visuals to compare QBs EPAs
+- [ ] Calculate QB EPA for playoff games to represent how QBs perform in high stake games
