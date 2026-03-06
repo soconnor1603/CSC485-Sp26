@@ -72,8 +72,31 @@ Progress for this week:
 
 Goals for this week:
 
-- [ ] Start to wrap up any final regression models we want to explore 
-- [ ] Practically interpret summary outputs for our report 
-- [ ] Create presentation and decide what information we want to highlight to share to the class
-- [ ] Continue creating visuals to compare QBs EPAs
+- [x] Start to wrap up any final regression models we want to explore 
+- [x] Practically interpret summary outputs for our report 
+- [x] Create presentation and decide what information we want to highlight to share to the class
+- [x] Continue creating visuals to compare QBs EPAs
 - [ ] Calculate QB EPA for playoff games to represent how QBs perform in high stake games
+
+Progress for this week: 
+
+- We finished wrapping up regression models and other results 
+- Calculated a standardized G.O.A.T. score that will help us conclude that Tom Brady is the greatest of all time 
+- Started our presentation to be delivered on Monday 
+
+2/27/2026 
+
+Goals for this week: 
+
+- [x] Conclude this project by combining all of our results together
+- [x] Give our presentation and write our paper 
+
+Progress for this week: 
+
+- Successfully completed our first project 
+
+3/5/2026
+
+Goals for this week: 
+
+- [ ] Start thinking about what we want to do for project 2
